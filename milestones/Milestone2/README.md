@@ -3,12 +3,17 @@
 **EDIT TO ERD:
 Feedback from Milestone1 was -2 points for hard to read ERD.**
 -M2 has the modified screenshots of the ERD
+
 -also removed weak and redundant entities CEO, Company and Admin.
+
 -also modified Patient Address to Patient cardinality; patient must have one address, a patient address can belong many patients.
+
 -Also added Employee Address entity to Employee
+
 -removed InsuranceType, Public Insurance, and Private Insurance. Added Insurance Company
--NOTE:  For some reason in the M2.pdf, pages 50, 51, and 52 repeat in section VI: Testing Table after page 54. May be because the document is very big...
-but pages numbes are correct in Table of Contents.
+
+**NOTE:  For some reason in the M2.pdf, pages 50, 51, and 52 repeat in section VI: Testing Table after page 54. May be because the document is very big...
+but pages numbes are correct in Table of Contents.**
 
 
 The goal of this milestone is to create a complete technical document that will define in detail the logical 
