@@ -31,3 +31,4 @@ sold the medicine products between $B and $C.
 8. Find the phone numbers of all the clinics where the year the nurses started working is between X and Y year, and where the healthcare providers working at that 
 clinic have performed at least Z procedures.
 
+NOTE: uploaded new inserts.sql file because I modified some values, but original databasefile.sql is same.
